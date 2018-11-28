@@ -10,6 +10,6 @@ Source of the article:
   author={Nieuwenhuis, Claudia and Cremers, Daniel}
 }
 
-Code developped by Grégoire Boussac and Darius Afchar
+Code developped by Grégoire Boussac and Darius Afchar, for a course intituled "Introduction to medical image analysis" at the Master MVA.
 
 The primal-dual algorithm is inspired by [this repository](https://github.com/louisenaud/primal-dual).
