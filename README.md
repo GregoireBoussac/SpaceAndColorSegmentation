@@ -12,4 +12,4 @@ Source of the article:
 
 Code developped by Grégoire Boussac and Darius Afchar
 
-The primal-dual algorithm is inspired by [https://github.com/louisenaud/primal-dual]
+The primal-dual algorithm is inspired by [this repository](https://github.com/louisenaud/primal-dual).
