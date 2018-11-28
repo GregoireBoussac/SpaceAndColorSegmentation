@@ -9,3 +9,5 @@ Source of the article:
   title={Spatially varying color distributions for interactive multilabel segmentation.},
   author={Nieuwenhuis, Claudia and Cremers, Daniel}
 }
+
+Code developped by Grégoire Boussac and Darius Afchar
